@@ -1,0 +1,3 @@
+class RocketStage {
+    privar
+}
