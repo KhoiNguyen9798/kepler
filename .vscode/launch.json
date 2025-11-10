@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/usydrocketry/kepler/kepler_physics/src/rocket/components/external",
+      "program": "/Users/usydrocketry/kepler/kepler_physics/src/rocket/components/external/build/Debug/outDebug"
+    }
+  ]
+}
